@@ -8,9 +8,9 @@
 
 <div align="center">
  
- 🔭 I’m currently in ** Tuwaiq Software Development bootcamp**
+ 🔭 I’m currently in **Tuwaiq Software Development bootcamp**
  
- 🌱 I’m currently learning ** C#, .Net **
+ 🌱 I’m currently learning **C#, .Net**
 
 💬 Ask me about **Flutter, React, ... or anything [here](https://github.com/azizotbb/azizotbb/issues)**
 
@@ -32,7 +32,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,react,bootstrap,html,css,git," />
+    <img src="https://skillicons.dev/icons?i=dart,flutter,react,bootstrap,html,css,git," /><br>
     <img src="https://skillicons.dev/icons?i=cs,javascript,firebase,supabase,mongodb,mysql," /><br>
 </div>
 
