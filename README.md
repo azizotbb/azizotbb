@@ -27,7 +27,7 @@
   </a>
 </div>
 
-<hr/>
+![](/assets/images/horizontal-divider-gradient.gif)
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
