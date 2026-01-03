@@ -33,6 +33,6 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=dart,flutter,react,bootstrap,html,css,git," /><br>
-    <img src="https://skillicons.dev/icons?i=cs,javascript,firebase,supabase,mysql," /><br>
+    <img src="https://skillicons.dev/icons?i=cs,javascript,firebase,supabase,mysql,net,asp" /><br>
 </div>
 
